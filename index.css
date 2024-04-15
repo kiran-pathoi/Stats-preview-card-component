@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0a0c1b;
+}
+.container{
+    width: 55%;
+    height: 555 px;
+    background-color: #1c1938;
+    margin: auto;
+    margin-top: 60px;
+}
+span{
+    background-color: #1c1938;
+    color: #ac5fdc;
+}
+img{
+    float: right;
+    height: 453px;
+    position: absolute;
+    top: 60px;
+    left: 950px;
+}
+.container >h1{
+    font-size: 46px;
+    background-color: #1c1938;
+    color: white;
+    padding: 60px;   
+}
+.container >p{
+    font-size: 18px;
+    background-color: #1c1938;
+    color: #9594a9;
+    padding-left: 60px;
+    
+}
+.dabba{
+    background-color: #1c1938;
+}
+.box1{
+    background-color: #1c1938;
+    position: relative;
+    top: 20px;
+    left: 60px;  
+}
+.box1 > h2{
+    font-size: 32px;
+    color: white;
+    background-color: #1c1938;
+}
+.box1 > p{
+    font-size: 16px;
+    color: #9594a9;
+    background-color: #1c1938;
+}
+.box2{
+    background-color: #1c1938;
+    position: relative;
+    left: 180px;
+    top: -35px;
+}
+.box2 > h2{
+    font-size: 32px;
+    color: white;
+    background-color: #1c1938;
+}
+.box2 > p{
+    font-size: 16px;
+    color: #9594a9;
+    background-color: #1c1938;
+}
+.box3{
+    background-color: #1c1938;
+    position: relative;
+    left: 300px;
+    top: -90px;
+}
+.box3 > h2{
+    font-size: 32px;
+    color: white;
+    background-color: #1c1938;
+}
+.box3 > p{
+    font-size: 16px;
+    color: #9594a9;
+    background-color:#1c1938;
+}
